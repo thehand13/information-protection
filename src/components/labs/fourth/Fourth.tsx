@@ -18,9 +18,9 @@ const Fourth = () => {
 
     const d = 5,
       x1 = (-3 + Math.sqrt(d)) / 2,
-      x2 = (-3 - Math.sqrt(d)) / 2,
+      // x2 = (-3 - Math.sqrt(d)) / 2,
       s1 = (((((x1 + 3) * x1 + 1) * x1 + 1) * x1 + 4) * x1 + 4) * x1 + 3,
-      s2 = (((((x2 + 3) * x2 + 1) * x2 + 1) * x2 + 4) * x2 + 4) * x2 + 3,
+      // s2 = (((((x2 + 3) * x2 + 1) * x2 + 1) * x2 + 4) * x2 + 4) * x2 + 3,
       k = Math.floor(s1);
     for (let i = 0; i < inputState.length; i++) {
       if (LETTERS.indexOf(inputState[i])) {
