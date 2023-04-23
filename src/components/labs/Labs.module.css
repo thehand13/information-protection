@@ -2,6 +2,14 @@
   margin-top: 50px;
 }
 
+.select {
+  margin-bottom: 10px;
+}
+
+.selectLabel {
+  margin-right: 5px;
+}
+
 .calculate {
   margin-left: 20px;
 }
