@@ -1,9 +1,13 @@
-# information-protection
+### INFORMATION PROTECTION
 
-Install dependencies:
+## Install dependencies:
 
-## npm install
+npm install
 
-Start in production mode:
+## Start in developer mode:
 
-## npm run build
+npm run dev
+
+## Start in production mode:
+
+npm run build
